@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T22:44:32 BDT" name="Suite" finished-at="2024-01-29T22:46:39 BDT" duration-ms="126975">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T22:44:32 BDT" name="Test" finished-at="2024-01-29T22:46:39 BDT" duration-ms="126975">
+      <class name="resumeAnalyzer.testcases.AdhocTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:resumeAnalyzer.testcases.AdhocTest@31304f14]" started-at="2024-01-29T22:44:33 BDT" name="setup" finished-at="2024-01-29T22:45:45 BDT" duration-ms="72027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AdhocPageTest()[pri:0, instance:resumeAnalyzer.testcases.AdhocTest@31304f14]" started-at="2024-01-29T22:45:45 BDT" name="AdhocPageTest" finished-at="2024-01-29T22:46:38 BDT" duration-ms="53691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdhocPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:resumeAnalyzer.testcases.AdhocTest@31304f14]" started-at="2024-01-29T22:46:38 BDT" name="tearDown" finished-at="2024-01-29T22:46:39 BDT" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- resumeAnalyzer.testcases.AdhocTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
